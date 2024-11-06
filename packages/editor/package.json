@@ -64,7 +64,7 @@
     "@types/react-modal": "3.13.1",
     "@types/tinycolor2": "^1.4.3",
     "framer-motion": "^6.5.1",
-    "happy-dom": "^8.9.0",
+    "happy-dom": "^15.10.1",
     "isomorphic-fetch": "^3.0.0",
     "prosemirror-test-builder": "^1.1.0",
     "react": "17.0.2",
